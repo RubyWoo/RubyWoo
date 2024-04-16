@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RubyWoo
+- 👋 Hi, I’m Yadira Villar
 - 👀 I’m interested in Android and mobile development
 - 🌱 I’m currently learning kotlin and dart
 - 💞️ I’m looking to collaborate on proyects with android or flutter 
